@@ -1,0 +1,12 @@
+{
+    "name": "crostino/php_training",
+    "description": "A training project to pratice PHP development and learn best practices",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Crostino\\PhpTraining\\": "src/"
+        }
+    },
+    "require": {}
+}
